@@ -1,2 +1,2 @@
-# Python-course
-Source Code for Python Course
+# Web-Dev-course
+Source Code for Web Development Course
