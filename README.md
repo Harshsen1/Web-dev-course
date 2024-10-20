@@ -1,2 +1,2 @@
-# Web-dev-course
+# Python-course
 Source Code for Web Development Course
